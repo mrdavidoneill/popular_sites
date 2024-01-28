@@ -7,3 +7,7 @@ The initial use case was to quickly find out the sites using `data-testid` attri
 ## Instructions
 
 Simply run `search_html()` to get the sites currently using data-testid attributes. Or search for a different attribute by changing `attribute` in `search_html()`.
+
+### Example output
+
+![Example output](./readme_images/data-testid_popular_sites.png)
